@@ -1,0 +1,10 @@
+{
+    "app":{
+        "port":8080
+    },
+    "db":{
+        "connectString": "mongodb://simba:kisstherain@ds255308.mlab.com:55308/internet123",
+        "dbName": "internet123",
+        "collection": "sites"
+    }
+}
